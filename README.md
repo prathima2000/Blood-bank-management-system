@@ -8,6 +8,7 @@ Objective
   To develop a web site for a bloodbank to serve and save lifeand save life of people.It act as an interface between Donor,receptor and blood bank.
 
 
+-----------
 
 Admin(input)
 
@@ -20,6 +21,7 @@ Admin(input)
 
 •	Contact details 
 
+---------
 
 User(Output)
 
