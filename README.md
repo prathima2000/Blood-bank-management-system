@@ -4,9 +4,13 @@ PROJECT NAME
 Blood bank management system
 
 Objective
+  
   To develop a web site for a bloodbank to serve and save lifeand save life of people.It act as an interface between Donor,receptor and blood bank.
 
+
+
 Admin(input)
+
 
 •	Update the availability of blood group.
 
@@ -16,7 +20,9 @@ Admin(input)
 
 •	Contact details 
 
+
 User(Output)
+
 
 •	Register
 
